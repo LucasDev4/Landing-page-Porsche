@@ -17,6 +17,13 @@ This project represents my growth as a front-end developer, exploring modern vis
 The entire project was built **without frameworks**, using only core web technologies and the **GSAP** library for animations.
 
 ---
+## 🌐 Deploy
+
+🇧🇷 O projeto está disponível online através do **GitHub Pages**:  
+🔗 https://lucasdev4.github.io/Landing-page-Porsche/
+
+🇺🇸 The project is live on **GitHub Pages**:  
+🔗 https://lucasdev4.github.io/Landing-page-Porsche/
 
 ## 🚀 Tecnologias Utilizadas | Technologies Used
 
@@ -47,7 +54,7 @@ The entire project was built **without frameworks**, using only core web technol
 
 ```bash
 # Clone o repositório
-git clone https://lucasdev4.github.io/Landing-page-Porsche/
+git clone https://github.com/lucasdev4/Landing-page-Porsche.git
 
 # Entre na pasta do projeto
 cd Landing-page-Porsche
